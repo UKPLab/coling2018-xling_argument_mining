@@ -22,8 +22,7 @@ Spanish, and Chinese. We then compare (i) annotation projection and (ii) bilingu
 based direct transfer strategies for cross-lingual AM, finding that the former performs
 considerably better and almost eliminates the loss from cross-lingual transfer. Moreover, we
 find that annotation projection works equally well when using either costly human or cheap
-machine translations. Our code and data are available at http://github.com/UKPLab/
-coling2018-xling_argument_mining. 
+machine translations. Our code and data are available at http://github.com/UKPLab/coling2018-xling_argument_mining. 
 
 
 Contact person: Steffen Eger, eger@ukp.informatik.tu-darmstadt.de
