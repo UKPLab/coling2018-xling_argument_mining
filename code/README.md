@@ -11,4 +11,6 @@ In the YAML file, replace the following:
 
 We do not provide the embedding file. It is easy to generate a bilingual embedding file using e.g. Europarl data. Alternatively, you can also get good bilingual word embedding files for EN-DE from [here](https://github.com/UKPLab/arxiv2018-xling-sentence-embeddings). This also contains EN-FR embeddings. In the embedding files, you may wish to flag each word with its language, e.g., by appending _de or _en to each word.
 
+Feel free to adapt the hyperparameters in the YAML file according to your taste (e.g., size of hidden states, etc.)
+
 ## Annotation projection
