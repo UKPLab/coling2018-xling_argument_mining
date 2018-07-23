@@ -1,0 +1,14 @@
+# Code
+
+## Direct Transfer model
+
+We provide a YAML file for specifying a character-level bidirectional LSTM for token level sequence tagging. The underlying framework can be obtained from [here](https://github.com/UKPLab/thesis2018-tk_mtl_sequence_tagging).
+
+In the YAML file, replace the following:
+
+* paths for the train,dev,test file should point to your train,dev,test splits (in CONLL format)
+* paths to the (bilingual) embeddings file
+
+We do not provide the embedding file. It is easy to generate a bilingual embedding file using e.g. Europarl data. Alternatively, you can also get good bilingual word embedding files for EN-DE [here](https://github.com/UKPLab/arxiv2018-xling-sentence-embeddings). This also contains EN-FR embeddings. In the embedding files, you may wish to flag each word with its language, e.g., by appending _de or _en to each word.
+
+## Annotation projection
