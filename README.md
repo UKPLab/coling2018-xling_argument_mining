@@ -34,3 +34,12 @@ https://www.tu-darmstadt.de/
 
 Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions.
 
+
+## Data
+
+Find the data in the folder ``data``.
+
+## Code
+
+Find the code in the folder ``code``.
+As of now, this is preliminary. We will keep updating this.
