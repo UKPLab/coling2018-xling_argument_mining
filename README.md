@@ -1,6 +1,6 @@
 # Cross-lingual Argumentation Mining: Machine Translation (and a bit of Projection) is All You Need!
 
-This repository contains code and data for our Coling paper on Cross-Lingual Argumentation Mining. 
+This repository contains code and data for our Coling paper on [Cross-Lingual Argumentation Mining](https://arxiv.org/pdf/1807.08998.pdf). 
 
 # Citation 
 
