@@ -14,3 +14,5 @@ We do not provide the embedding file. It is easy to generate a bilingual embeddi
 Feel free to adapt the hyperparameters in the YAML file according to your taste (e.g., size of hidden states, etc.)
 
 ## Annotation projection
+
+For annotation projection, we provide the algorithm that projects annotation spans from a source to the target language. 
