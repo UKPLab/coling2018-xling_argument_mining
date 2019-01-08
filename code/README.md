@@ -15,4 +15,5 @@ Feel free to adapt the hyperparameters in the YAML file according to your taste 
 
 ## Annotation projection
 
-For annotation projection, we provide the algorithm that projects annotation spans from a source to the target language. 
+For annotation projection, we provide the algorithm that projects annotation spans from a source to the target language.
+Once the target data is annotated using the projection algorithm, you can use the same model as for direct transfer to train a German language model. 
