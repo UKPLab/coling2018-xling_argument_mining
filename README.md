@@ -25,7 +25,7 @@ find that annotation projection works equally well when using either costly huma
 machine translations. Our code and data are available at http://github.com/UKPLab/coling2018-xling_argument_mining. 
 
 
-Contact person: Steffen Eger, eger@ukp.informatik.tu-darmstadt.de
+Contact person: Steffen Eger, eger@aiphes.tu-darmstadt.de
 
 https://www.ukp.tu-darmstadt.de/
 
